@@ -1,0 +1,438 @@
+                                                precision    recall  f1-score   support
+
+                                  3-d graphics       0.85      0.79      0.82        29
+                        adoption and fostering       0.96      0.80      0.87        30
+                               adult education       0.75      0.71      0.73        34
+                              adventure travel       0.67      0.67      0.67        27
+                                 africa travel       0.76      0.87      0.81        30
+                                   agriculture       0.64      0.74      0.69        31
+                                    air travel       0.91      0.94      0.92        31
+                           alcoholic beverages       0.79      0.79      0.79        34
+                                     allergies       0.94      0.65      0.77        26
+                             alternative music       0.52      0.48      0.50        25
+                              alternative rock       0.57      0.90      0.70        30
+                     amusement and theme parks       0.76      0.85      0.81        34
+                             animation & anime       0.93      0.78      0.85        36
+                                   anniversary       0.97      1.00      0.98        30
+                            antivirus software       0.77      0.77      0.77        26
+                                    apartments       0.91      0.80      0.85        25
+                              apparel industry       0.79      0.68      0.73        28
+                               apprenticeships       0.82      0.96      0.89        28
+                       artificial intelligence       0.64      0.78      0.70        32
+                               arts and crafts       0.42      0.54      0.47        28
+                                   asia travel       0.56      0.53      0.55        34
+                                     astrology       0.88      0.97      0.92        29
+                                       atheism       0.90      0.93      0.92        30
+                                   attractions       0.75      0.82      0.78        11
+                             augmented reality       0.85      0.93      0.89        42
+                              auto body styles       0.74      0.65      0.69        62
+                       auto buying and selling       0.79      0.77      0.78        35
+                auto infotainment technologies       0.81      0.90      0.85        29
+                                auto insurance       0.63      0.82      0.71        33
+                       auto navigation systems       0.84      0.84      0.84        25
+                                    auto parts       0.93      0.82      0.88        34
+                                   auto racing       0.90      0.93      0.91        28
+                                  auto recalls       0.90      0.88      0.89        32
+                                   auto repair       0.97      0.88      0.92        32
+                                   auto safety       0.69      0.76      0.72        33
+                      auto safety technologies       0.84      0.90      0.87        29
+                                    auto shows       0.63      0.73      0.68        30
+                               auto technology       0.78      0.54      0.64        39
+                                     auto type       0.60      0.70      0.65        50
+                                    automotive       0.36      0.36      0.36        33
+                           automotive industry       0.79      0.80      0.80        41
+                                  awards shows       0.93      0.96      0.95        28
+                                     badminton       0.54      0.72      0.62        29
+                        barbecues and grilling       0.90      0.88      0.89        32
+                            bars & restaurants       0.82      0.82      0.82        34
+                                      baseball       0.86      0.89      0.87        27
+                                    basketball       0.87      0.79      0.83        34
+                                        beauty       0.80      0.67      0.73        30
+                                    beekeeping       0.94      1.00      0.97        29
+                                   bereavement       0.88      0.88      0.88        33
+                                   biographies       0.72      0.78      0.75        36
+                           biological sciences       0.70      0.84      0.77        37
+                                         birds       0.72      0.68      0.70        31
+                                  birdwatching       0.87      0.84      0.85        31
+                                 birth control       0.97      0.97      0.97        29
+                                      birthday       0.85      0.97      0.90        29
+                               blood disorders       0.94      0.91      0.92        32
+                       board games and puzzles       0.83      0.92      0.87        26
+                                      body art       0.93      0.87      0.90        30
+                     bone and joint conditions       0.90      0.93      0.91        28
+                          books and literature       0.72      0.68      0.70       100
+                                        boxing       0.93      0.90      0.92        31
+            brain and nervous system disorders       0.88      0.79      0.84        29
+                                      browsers       0.75      0.83      0.79        29
+                                      buddhism       0.85      0.71      0.77        31
+                                   budget cars       1.00      1.00      1.00        30
+                                 budget travel       0.87      0.87      0.87        30
+                                      business       0.65      0.50      0.56        48
+                 business accounting & finance       0.97      0.90      0.93        31
+                       business administration       0.58      0.72      0.65        29
+                          business and finance       0.37      0.44      0.40       100
+                    business banking & finance       0.81      0.84      0.83        31
+                  business expos & conferences       0.93      0.93      0.93        30
+                                 business i.t.       0.71      0.77      0.74        31
+                                business loans       0.92      0.79      0.85        29
+                           business operations       0.58      0.44      0.50        32
+                        cameras and camcorders       0.90      0.87      0.88        30
+                                        cancer       0.72      0.66      0.69        35
+                                   car culture       0.76      0.74      0.75        35
+                                 career advice       0.67      0.87      0.75        30
+                               career planning       0.83      0.69      0.75        29
+                                       careers       0.95      0.90      0.92       100
+                            casinos & gambling       0.97      1.00      0.99        37
+                                          cats       0.89      0.81      0.85        31
+                              celebrity deaths       0.92      0.96      0.94        24
+                            celebrity families       0.97      0.90      0.93        31
+                       celebrity relationships       0.85      0.82      0.84        34
+                             celebrity scandal       0.81      0.93      0.87        28
+                               celebrity style       0.87      0.89      0.88        38
+                                     chemistry       0.90      0.88      0.89        32
+                                  christianity       0.84      0.84      0.84        31
+                                        cigars       0.97      0.91      0.94        32
+                                  classic cars       1.00      0.65      0.79        26
+                                  classic hits       0.82      0.90      0.86        30
+                                  classic rock       0.90      0.63      0.75        30
+                               classical music       0.75      0.60      0.67        30
+                               cloud computing       0.47      0.82      0.60        28
+                                  cold and flu       0.97      1.00      0.98        29
+                                    collecting       1.00      0.97      0.98        31
+                             college education       0.61      0.45      0.52        49
+                              college football       0.87      0.90      0.88        29
+                              college planning       0.73      0.87      0.79        31
+                                        comedy       0.92      0.40      0.56        30
+                     comics and graphic novels       0.76      0.89      0.82        28
+                                   commodities       0.93      1.00      0.96        26
+                            computer animation       0.74      0.87      0.80        23
+                           computer networking       0.74      0.77      0.75        26
+                          computer peripherals       0.90      0.87      0.88        30
+            computer software and applications       0.72      0.94      0.82        33
+                                     computing       0.48      0.71      0.57        48
+                                  concept cars       1.00      1.00      1.00        30
+                                 console games       0.87      1.00      0.93        27
+                              consumer banking       0.81      0.73      0.77        30
+                          consumer electronics       0.46      0.48      0.47        33
+                               consumer issues       0.95      0.74      0.83        27
+                  contemporary hits/pop/top 40       1.00      0.97      0.98        30
+                            content production       0.48      0.55      0.51        20
+                                       cooking       0.50      0.47      0.49        36
+                     cosmetic medical services       0.97      0.83      0.89        35
+                                       costume       0.94      0.91      0.92        32
+                                 country music       0.59      0.71      0.65        28
+                                       cricket       0.74      0.72      0.73        32
+                                         crime       0.76      0.54      0.63        48
+                                       cruises       0.93      0.96      0.95        28
+                                    currencies       0.87      0.87      0.87        30
+                                       cycling       0.81      0.86      0.83        29
+                                         dance       0.77      0.77      0.77        31
+                    dance and electronic music       0.81      0.81      0.81        31
+                               dash cam videos       0.85      0.94      0.89        31
+                                     databases       0.87      0.90      0.89        30
+                                        dating       0.68      0.76      0.72        34
+                              defense industry       0.87      0.93      0.90        29
+                                 dental health       0.91      0.97      0.94        30
+                                        design       0.69      0.87      0.77        31
+                             designer clothing       0.90      0.88      0.89        32
+                           desserts and baking       0.78      0.78      0.78        32
+                           developmental sites       0.93      0.86      0.89        29
+                                      diabetes       0.96      1.00      0.98        27
+                           digestive disorders       0.72      0.78      0.75        27
+                                  digital arts       0.81      0.72      0.76        29
+                                 digital audio       0.82      0.79      0.81        29
+                                    dining out       0.83      0.63      0.72        30
+                               disabled sports       0.73      0.77      0.75        31
+                                     disasters       0.80      0.83      0.81        29
+                       diseases and conditions       0.84      0.69      0.76        78
+                                        diving       0.93      0.93      0.93        29
+                                   documentary       0.85      0.97      0.90        34
+                                          dogs       0.86      0.89      0.88        28
+                                         drama       0.81      0.76      0.79        34
+                         drawing and sketching       0.79      0.96      0.87        28
+                     early childhood education       0.74      0.68      0.71        34
+                                       economy       0.66      0.69      0.68        36
+                                     education       0.47      0.47      0.47        38
+                            education industry       0.54      0.73      0.62        30
+                        educational assessment       0.78      0.83      0.81        30
+                                     eldercare       0.83      0.90      0.86        39
+                                     elections       0.33      0.43      0.38        21
+              endocrine and metabolic diseases       0.80      0.44      0.57        27
+                                 entertainment       0.53      0.56      0.55        48
+                        entertainment industry       0.38      0.75      0.50         4
+                                   environment       0.59      0.61      0.60        33
+               environmental services industry       0.89      0.80      0.84        30
+                                 equine sports       0.96      0.96      0.96        28
+                                 europe travel       0.91      0.69      0.78        29
+             executive leadership & management       0.97      0.94      0.95        32
+                     eye and vision conditions       1.00      0.92      0.96        26
+                                       factual       0.73      0.59      0.66        32
+                      family and relationships       0.44      0.55      0.49       100
+                                fantasy sports       0.84      0.96      0.90        28
+                                fashion trends       0.73      0.86      0.79        35
+                                       fiction       0.65      0.59      0.62        29
+                          financial assistance       0.76      0.76      0.76        37
+                              financial crisis       0.90      0.96      0.93        27
+                            financial industry       0.77      0.77      0.77        31
+                            financial planning       0.83      0.77      0.80        31
+                              financial reform       0.92      0.80      0.86        30
+                          financial regulation       0.87      0.90      0.88        29
+                                      fine art       0.58      0.37      0.45        38
+                          fine art photography       0.89      0.89      0.89        28
+                                     first aid       0.96      0.90      0.93        30
+                            fish and aquariums       0.84      0.82      0.83        33
+                          fitness and exercise       0.55      0.43      0.48        28
+                                  food & drink       0.38      0.31      0.34        32
+                                food allergies       0.66      0.97      0.78        30
+                                 food industry       0.61      0.69      0.65        29
+                                food movements       0.84      1.00      0.91        26
+                                   foot health       0.84      1.00      0.91        26
+                             games and puzzles       0.78      0.78      0.78        46
+                                     gardening       0.67      0.71      0.69        31
+                               gasoline prices       1.00      0.89      0.94        28
+                                      genetics       0.81      0.78      0.79        32
+                                        genres       0.77      0.82      0.79        33
+                                     geography       0.93      0.86      0.89        29
+                     gifts and greetings cards       0.93      0.93      0.93        30
+                                          golf       1.00      0.85      0.92        27
+                           government business       0.83      0.91      0.87        33
+                                    graduation       1.00      0.93      0.96        27
+                             graphics software       0.71      0.80      0.75        30
+                               green solutions       0.50      0.59      0.54        29
+                                green vehicles       0.91      0.71      0.80        28
+                              grocery shopping       1.00      1.00      1.00        25
+                                    gymnastics       0.81      0.97      0.88        30
+                                     hair care       1.00      0.77      0.87        30
+                                     hard rock       1.00      0.55      0.71        31
+                              health insurance       0.90      0.87      0.88        30
+                           healthcare industry       0.63      0.79      0.70        28
+                    healthy cooking and eating       0.54      0.69      0.61        29
+                                healthy living       0.38      0.39      0.39       100
+             heart and cardiovascular diseases       0.68      0.76      0.71        33
+                         herbs and supplements       0.89      0.86      0.88        29
+                                  high fashion       0.88      0.73      0.80        30
+                                      hinduism       0.86      0.80      0.83        30
+                                 hip hop music       0.84      0.78      0.81        27
+              historic site and landmark tours       0.93      0.80      0.86        35
+                                       history       0.82      0.78      0.80        36
+                           hobbies & interests       0.46      0.70      0.55        47
+                                       holiday       0.57      0.80      0.67        35
+                              holiday shopping       1.00      0.90      0.95        30
+                               holistic health       0.72      0.81      0.76        32
+                                 home & garden       0.79      0.72      0.75        32
+                               home appliances       0.86      0.77      0.81        31
+                             home entertaining       0.88      0.93      0.90        30
+                    home entertainment systems       0.83      0.97      0.89        30
+                                home financing       0.72      0.87      0.79        30
+                              home improvement       0.73      0.79      0.76        38
+                                 home security       0.69      0.75      0.72        32
+                                home utilities       0.72      0.65      0.68        48
+                                 homeschooling       0.75      0.82      0.78        33
+                            homework and study       0.89      0.77      0.83        31
+                            hormonal disorders       0.64      0.77      0.70        30
+                                        horror       0.66      0.66      0.66        32
+                               human resources       0.89      0.86      0.88        29
+                              humor and satire       0.63      0.65      0.64        26
+                          hunting and shooting       0.96      0.89      0.93        28
+                                    industries       0.43      0.43      0.43        99
+                           infectious diseases       0.78      0.62      0.69        47
+                                   infertility       0.96      0.92      0.94        24
+              information and network security       0.61      0.45      0.52        31
+                                      injuries       0.90      0.96      0.93        28
+                                     insurance       0.78      0.66      0.71        32
+                                interest rates       0.86      0.80      0.83        30
+                           interior decorating       0.77      0.72      0.74        32
+                                      internet       0.64      0.70      0.67        30
+                        internet for beginners       0.79      0.93      0.86        29
+                            internet of things       0.77      0.83      0.80        29
+                               internet safety       0.74      0.61      0.67        28
+                                         islam       0.79      0.82      0.81        28
+                       it and internet support       0.96      0.79      0.87        29
+                                          jazz       0.77      0.77      0.77        31
+                                jewelry making       0.93      0.97      0.95        29
+                                     job fairs       0.97      1.00      0.98        30
+                                    job market       0.92      0.73      0.81        30
+                                    job search       0.74      0.72      0.73        40
+                                land and farms       0.77      0.52      0.62        33
+                                   landscaping       0.74      0.89      0.81        28
+                             language learning       0.74      0.87      0.80        30
+                                       laptops       0.89      0.83      0.86        29
+                                 large animals       1.00      0.88      0.93        32
+                                large business       0.80      0.83      0.81        29
+                                           law       0.73      0.84      0.78        32
+                                     lifestyle       0.53      0.55      0.54        33
+                                     logistics       0.53      0.61      0.57        31
+         logistics and transportation industry       0.57      0.43      0.49        30
+                    lotteries and scratchcards       0.94      1.00      0.97        30
+                   lung and respiratory health       0.96      0.82      0.88        28
+                                   luxury cars       0.94      0.97      0.95        30
+                        makeup and accessories       0.81      0.94      0.87        31
+                      malls & shopping centers       0.93      0.82      0.87        33
+                        manufacturing industry       0.78      0.72      0.75        29
+                     marketing and advertising       0.75      0.80      0.77        30
+                     marriage and civil unions       0.97      0.91      0.94        33
+                                  martial arts       0.76      0.87      0.81        30
+mechanical and industrial engineering industry       0.62      0.60      0.61        30
+                                media industry       0.88      0.82      0.85        28
+                                medical health       0.32      0.19      0.24        58
+                                 medical tests       0.75      0.72      0.74        29
+                                     menopause       0.75      0.92      0.83        26
+                                 mental health       0.85      0.85      0.85        33
+                      mergers and acquisitions       0.91      1.00      0.95        31
+                               metals industry       0.90      0.72      0.80        25
+                                    model toys       0.90      0.82      0.86        33
+                                    modern art       0.63      0.71      0.67        31
+                               motor insurance       0.86      0.83      0.84        23
+                             motorcycle sports       0.85      0.96      0.90        24
+                                   motorcycles       0.88      0.66      0.75        44
+                                        movies       0.58      0.64      0.61       100
+                           museums & galleries       0.78      0.94      0.85        34
+                                   music video       0.91      0.85      0.88        34
+                                       musical       0.53      0.53      0.53        32
+                           musical instruments       0.91      0.91      0.91        34
+                                  mutual funds       0.90      0.93      0.92        29
+                                       mystery       0.77      0.61      0.68        33
+                                     nail care       0.83      1.00      0.91        30
+                     national & civic holidays       0.94      0.94      0.94        31
+                                    needlework       1.00      0.94      0.97        31
+                                    nightclubs       0.83      0.83      0.83        36
+                       non-alcoholic beverages       0.85      0.79      0.82        29
+                                     nutrition       0.72      0.70      0.71        33
+                       obscenity and profanity       0.93      0.93      0.93        29
+                        oldies/adult standards       0.88      0.47      0.61        30
+                                olympic sports       0.73      0.68      0.70        28
+                              online education       0.61      0.68      0.64        34
+                                         opera       0.70      0.76      0.73        25
+                             operating systems       0.87      0.90      0.89        30
+                            outdoor activities       0.67      0.61      0.63        33
+                                      painting       0.68      0.77      0.72        30
+                          paranormal phenomena       0.74      0.56      0.64        25
+                                     parenting       0.80      0.77      0.79        31
+                 parenting babies and toddlers       0.80      0.83      0.81        29
+                  parenting children aged 4-11       0.84      1.00      0.91        32
+                               parenting teens       0.93      0.93      0.93        28
+                                parks & nature       0.72      0.78      0.75        40
+                            participant sports       0.67      0.39      0.49        31
+           personal celebrations & life events       0.71      0.71      0.71        31
+                                 personal debt       0.88      0.88      0.88        42
+                              personal finance       0.53      0.41      0.46       100
+                            personal investing       0.62      0.62      0.62        37
+                                personal loans       0.93      0.89      0.91        28
+                                personal taxes       0.89      0.97      0.93        32
+                                 pet adoptions       0.93      0.90      0.92        31
+                                          pets       0.68      0.58      0.63       100
+                          pharmaceutical drugs       0.77      0.69      0.73        35
+                                   photography       1.00      0.85      0.92        27
+                                       physics       0.93      0.90      0.92        31
+                                        poetry       0.86      0.77      0.81        31
+                                      politics       0.58      0.75      0.65        44
+                                   pop culture       0.74      0.54      0.62        37
+                        postgraduate education       0.87      0.84      0.86        32
+                     power and energy industry       0.82      0.72      0.77        25
+                                     pregnancy       0.74      0.74      0.74        27
+                             primary education       0.70      0.70      0.70        37
+                                private equity       0.93      0.97      0.95        29
+                                private school       0.93      0.82      0.87        33
+                           professional school       0.69      0.78      0.73        46
+                         programming languages       1.00      0.94      0.97        31
+                           publishing industry       0.93      1.00      0.96        26
+                                 r&b/soul/funk       0.83      0.83      0.83        30
+                                 radio control       1.00      0.96      0.98        25
+                                   rail travel       0.79      0.87      0.83        30
+                                   real estate       0.67      0.60      0.63       100
+                real estate buying and selling       0.87      0.71      0.78        28
+               real estate renting and leasing       0.81      0.89      0.85        28
+                                    reality tv       0.96      0.89      0.92        27
+                       religion & spirituality       0.73      0.59      0.65        41
+                     remodeling & construction       0.90      0.97      0.93        29
+                                remote working       0.94      0.78      0.85        37
+                                      reptiles       0.84      1.00      0.92        27
+                     resume writing and advice       0.93      0.87      0.90        30
+                               retail industry       0.75      0.80      0.77        30
+                           retirement planning       0.71      0.88      0.78        33
+                                    road trips       0.87      0.90      0.88        29
+                          road-side assistance       0.86      0.91      0.89        34
+                                      robotics       0.90      0.90      0.90        30
+                                    rock music       0.44      0.74      0.56        27
+                           running and jogging       0.71      0.83      0.77        30
+                                         sales       0.77      0.82      0.79        28
+                          sales and promotions       0.94      1.00      0.97        29
+                                       science       0.31      0.40      0.35        20
+                                      scooters       0.79      0.93      0.85        41
+                           secondary education       0.48      0.34      0.40        38
+                              sensitive topics       0.62      0.80      0.70        35
+                             sexual conditions       1.00      0.79      0.88        28
+                                      shopping       0.62      0.58      0.60       100
+                                   single life       0.79      0.90      0.84        30
+                          skin and dermatology       0.87      0.87      0.87        30
+                                     skin care       0.86      0.83      0.84        29
+               small and medium-sized business       0.75      0.75      0.75        32
+                                    smart home       0.72      0.88      0.79        33
+                                   smartphones       0.57      0.83      0.68        29
+                             smoking cessation       0.93      0.93      0.93        29
+                        snooker/pool/billiards       0.96      0.88      0.92        26
+                                    soap opera       0.97      0.88      0.92        34
+                                        soccer       0.78      0.91      0.84        32
+                             social networking       0.84      0.87      0.85        30
+                                 soft ac music       0.77      0.93      0.84        29
+                              songwriters/folk       0.92      0.88      0.90        25
+                          south america travel       0.86      0.93      0.89        27
+                           space and astronomy       0.83      0.83      0.83        30
+                             special education       0.59      0.79      0.68        28
+                                  spirituality       0.76      0.68      0.72        28
+                                        sports       0.70      0.63      0.66       100
+                                  sports radio       0.88      0.97      0.92        31
+                              stamps and coins       1.00      0.93      0.96        28
+                          standardized testing       0.81      0.78      0.80        45
+                                      startups       0.74      0.78      0.76        32
+                                  street style       0.93      0.90      0.92        31
+                         student financial aid       0.96      0.93      0.95        29
+                                 student loans       0.93      0.89      0.91        28
+                               style & fashion       0.72      0.57      0.64        40
+                               substance abuse       0.88      0.93      0.90        30
+                         summer olympic sports       0.67      0.50      0.57        28
+                                       surgery       0.90      0.79      0.84        33
+                                           suv       0.93      0.93      0.93        27
+                                      swimming       0.80      0.93      0.86        30
+                         tablets and e-readers       1.00      0.97      0.98        30
+                                    talk radio       0.90      0.96      0.93        28
+                                     talk show       0.85      0.77      0.81        30
+                        technology & computing       0.42      0.34      0.38        41
+                           technology industry       0.50      0.59      0.54        29
+                   telecommunications industry       0.70      0.93      0.80        28
+                                    television       0.59      0.56      0.57       100
+                                        tennis       0.48      0.52      0.50        29
+                                       theater       0.68      0.55      0.61        31
+                                theater venues       0.97      0.86      0.91        37
+                             thyroid disorders       0.60      0.75      0.67        24
+                                        travel       0.47      0.61      0.53       100
+                              travel locations       0.57      0.44      0.50        36
+                 travel preparation and advice       0.92      0.77      0.84        31
+                       undergraduate education       0.78      0.63      0.70        49
+                                      vaccines       0.78      0.84      0.81        38
+                                   vegan diets       0.97      0.91      0.94        34
+                              vegetarian diets       0.86      0.91      0.88        33
+                           veterinary medicine       1.00      1.00      1.00        27
+                                  video gaming       0.51      0.41      0.46       100
+                               virtual reality       0.91      0.91      0.91        33
+                           vocational training       0.71      0.78      0.74        37
+                             war and conflicts       0.73      0.52      0.60        31
+                           wearable technology       0.83      0.74      0.78        27
+                                       weather       1.00      0.96      0.98        25
+                              web conferencing       0.88      0.79      0.84        29
+                           web design and html       0.83      0.83      0.83        30
+                               web development       0.93      0.81      0.86        31
+                                       wedding       0.90      0.87      0.89        31
+                                   weight loss       0.81      0.88      0.84        33
+                                      wellness       0.60      0.80      0.68        35
+                                       western       0.92      0.88      0.90        25
+                         winter olympic sports       0.83      0.80      0.82        25
+                                women's health       0.71      0.71      0.71        31
+                         workshops and classes       0.93      0.82      0.87        33
+                                world cuisines       0.90      0.81      0.85        32
+                     world/international music       0.92      0.70      0.79        33
+                              zoos & aquariums       0.83      0.89      0.86        27
+
+                                      accuracy                           0.77     14542
+                                     macro avg       0.79      0.79      0.79     14542
+                                  weighted avg       0.77      0.77      0.77     14542

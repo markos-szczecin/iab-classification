@@ -1,0 +1,26 @@
+{
+  "csv_path": "/content/drive/MyDrive/Praca dyplomowa DataScience/wyniki/cnn/data_final_min30.csv",
+  "text_col": "text",
+  "target_col": "target",
+  "num_classes": 432,
+  "vocab_size": 60000,
+  "oov_token": "<OOV>",
+  "max_len": 256,
+  "embedding_dim": 128,
+  "conv_filters": [
+    256,
+    256
+  ],
+  "kernel_sizes": [
+    3,
+    5
+  ],
+  "dense_units": 256,
+  "dropout_rate": 0.4,
+  "batch_size": 128,
+  "epochs": 100,
+  "val_size": 0.1,
+  "test_size": 0.1,
+  "use_class_weight": true,
+  "out_dir": "artifacts_cnn"
+}
